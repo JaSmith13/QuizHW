@@ -2,7 +2,8 @@
 
 2. In OO polymorphism refers to the practice of allowing an object to be treated as many different classes base on the situation in which it is required.
 ```Dog dog = new Dog(); //Dog being a child of a superclass animal
-    Animal dog = new Dog() //Dog may also be created as an Animal object through inheritance using polymorhism```
+    Animal dog = new Dog() //Dog may also be created as an Animal object through inheritance using polymorhism
+```    
 
 3. Polymorphism may be implemented through the use of both inheritance and application of interfaces where an object may be called as an instance of the interface Class e.g a dog could be called as an instance of IBark.
 
